@@ -1,7 +1,7 @@
 # cisco-network-engineering-labs
 Practical Cisco networking labs using Packet Tracer. Learn IOS, routing, OSPF, VLANs, DHCP, STP, ACLs, NAT, IPv6, network security and troubleshooting through hands-on demonstrations.
 #
-### 22 Practical Cisco Networking Demonstrations | The Cyber Oracle
+### Practical Cisco Networking Demonstrations | The Cyber Oracle
 
 ![Networking](https://img.shields.io/badge/Networking-Practical_Labs-blue)
 ![Cisco](https://img.shields.io/badge/Cisco-Configuration-blue)
